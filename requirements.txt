@@ -1,0 +1,5 @@
+gym[box2d]
+box2d-py
+torch
+Pillow
+pygame
